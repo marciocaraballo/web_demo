@@ -1,0 +1,9 @@
+.app {
+    padding: 20px;
+}
+
+.app-list-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
